@@ -1,0 +1,48 @@
+body{
+   
+    text-align: center;
+    
+}
+#show_sketch{
+    margin-left: 200px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(61, 121, 178);
+}
+.love{
+margin-right: 200px;
+}
+.sketch{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+    
+}
+.modal-dialog{
+    width: 70%;
+    }
+canvas{
+    border: 5px  solid rgb(0, 0, 255) ;
+    border-radius: 20px;
+    animation-name: Lol;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 150px;
+}
+.design{
+    font-size: 15;
+    color: white;
+}
+.score{
+    color: white;
+    font-size: 15;
+    margin-right: 225;
+}
+.timer{
+    color: white;
+    font-size: 15;
+    margin-left: 225;
+}
